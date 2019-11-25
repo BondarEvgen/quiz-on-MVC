@@ -17,7 +17,7 @@
 
 		if (plateNumber === 1) {
 			event.preventDefault()
-			if (element.textContent === 'Пройти тест') {
+			if (element.textContent === 'Take the test') {
 				
 				model.toNextPlate()
 			}
@@ -32,19 +32,19 @@
 				})				
 			}
 
-			else if (element.tagName === 'A' && element.textContent === 'Назад') {
+			else if (element.tagName === 'A' && element.textContent === 'Back') {
 				
 				model.toPrevPlate()
 			}
 
-			else if (element.tagName === 'A' && element.textContent === 'Далее') {
+			else if (element.tagName === 'A' && element.textContent === 'Further') {
 				if (plateData.item) {
 					
 					model.toNextPlate()
 				}
 
 				else {
-					alert('Выберите вариант ответа')
+					alert('Choose an answer option')
 				}
 			}
 		}
@@ -69,17 +69,17 @@
 				console.log(plateData.items)
 			}
 
-			else if (element.tagName === 'A' && element.textContent === 'Назад') {
+			else if (element.tagName === 'A' && element.textContent === 'Back') {
 				model.toPrevPlate()
 			}
 
-			else if (element.tagName === 'A' && element.textContent === 'Далее') {
+			else if (element.tagName === 'A' && element.textContent === 'Further') {
 				if (plateData.items.length) {
 					model.toNextPlate()
 				}
 
 				else {
-					alert('Выберите вариант ответа')
+					alert('Choose an answer option')
 				}
 			}
 
@@ -95,16 +95,16 @@
 					item: element.value
 				})
 			}
-			 else if (element.tagName === 'A' && element.textContent === 'Назад') {
+			 else if (element.tagName === 'A' && element.textContent === 'Back') {
 				model.toPrevPlate()
 			}
-			 else if (element.tagName === 'A' && element.textContent === 'Далее') {
+			 else if (element.tagName === 'A' && element.textContent === 'Further') {
 				if (plateData.item) {
 					model.toNextPlate()
 				}
 
 				else {
-					alert('Выберите вариант ответа')
+					alert('Choose an answer option')
 				}
 			}
 
@@ -124,7 +124,7 @@
 				model.setPlateData(plateNumber, plateData)
 				
 				  model.toNextPlate()
-				  console.log(plateData)
+				 
 				
 			 }
 	

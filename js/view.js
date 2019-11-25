@@ -102,9 +102,9 @@
 		<div class="cover-content-wrapper">
 			<div class="cover-content">
 				<img class="title-img" src="img/pictures/html.png" alt="HTML">
-				<div class="title">Определи свой уровень знания верстки сайтов</div>
-				<p>Ответь на серию вопросов, получи оценку знаний, список уроков чтобы подтянуть свой уровень и методичку с нашего курса “Профессия: Верстальщик сайтов.”</p>
-				<a href="#" class="button">Пройти тест</a>
+				<div class="title">Test your site layout knowledge</div>
+				<p>Answer a series of questions, get an assessment of knowledge, a list of lessons to pull up your level and training manual from our course “Profession: Front-end developer.”</p>
+				<a href="#" class="button">Take the test</a>
 			</div>
 		</div>
 	</div>`
@@ -118,13 +118,13 @@
 			<div class="plate-header__icon">
 				<img src="img/icons/list.png" alt="Icon">
 			</div>
-			<div class="plate-header__title">Ваш уровень знания верстки сайтов</div>
+			<div class="plate-header__title">Your level of knowledge of layout sites</div>
 		</div>
 		<!-- // plate-header -->
 
 		<!-- Content ... -->
 		<div class="plate-content">
-			<h2 class="title-main">Что означает сокращение HTML?</h2>
+			<h2 class="title-main">What does HTML abbreviation mean?</h2>
 			<div class="radio-group">
 				<!-- radio-block -->
 				<label class="radio-block">
@@ -149,9 +149,9 @@
 				<!-- // radio-block -->
 				<!-- radio-block -->
 				<label class="radio-block">
-					<input type="radio" name="radio-group" class="radio-block__real" value="HTML не имеет расшифровки. Это военная разработка.">
+					<input type="radio" name="radio-group" class="radio-block__real" value="HTML has no decryption. This is a military development.">
 					<div class="radio-block__fake"></div>
-					<div class="radio-block__text">HTML не имеет расшифровки. Это военная разработка.</div>
+					<div class="radio-block__text">HTML has no decryption. This is a military development.</div>
 				</label>
 				<!-- // radio-block -->
 			</div>
@@ -163,7 +163,7 @@
 
 				<div class="progress">
 					<div class="progress__label">
-						Готово: <strong>33%</strong>
+						Done: <strong>33%</strong>
 					</div>
 					<div class="progress__line-wrapper">
 						<div class="progress__line-bar" style="width: 33%;"></div>
@@ -172,8 +172,8 @@
 
 			</div>
 			<div class="plate-footer__buttons">
-				<a href="#" class="button button--back">Назад</a>
-				<a href="#" class="button">Далее</a>
+				<a href="#" class="button button--back">Back</a>
+				<a href="#" class="button">Further</a>
 			</div>
 		</div>
 		<!-- // plate-footer -->
@@ -190,13 +190,13 @@
 			<div class="plate-header__icon">
 				<img src="img/icons/list.png" alt="Icon">
 			</div>
-			<div class="plate-header__title">Ваш уровень знания верстки сайтов</div>
+			<div class="plate-header__title">Your level of knowledge of layout sites</div>
 		</div>
 		<!-- // plate-header -->
 
 		<!-- Content ... -->
 		<div class="plate-content">
-			<h2 class="title-main">Что означает сокращение HTML?</h2>
+			<h2 class="title-main">What does HTML abbreviation mean?</h2>
 			<div class="checkbox-group">
 				<!-- checkbox-block -->
 				<label class="checkbox-block">
@@ -221,9 +221,9 @@
 				<!-- // checkbox-block -->
 				<!-- checkbox-block -->
 				<label class="checkbox-block">
-					<input type="checkbox" name="radio-group" class="checkbox-block__real" value="HTML не имеет расшифровки. Это военная разработка.">
+					<input type="checkbox" name="radio-group" class="checkbox-block__real" value="HTML has no decryption. This is a military development.">
 					<div class="checkbox-block__fake"></div>
-					<div class="checkbox-block__text">HTML не имеет расшифровки. Это военная разработка.</div>
+					<div class="checkbox-block__text">HTML has no decryption. This is a military development.</div>
 				</label>
 				<!-- // checkbox-block -->
 			</div>
@@ -235,7 +235,7 @@
 
 				<div class="progress">
 					<div class="progress__label">
-						Готово: <strong>66%</strong>
+						Done: <strong>66%</strong>
 					</div>
 					<div class="progress__line-wrapper">
 						<div class="progress__line-bar" style="width: 66%;"></div>
@@ -244,8 +244,8 @@
 
 			</div>
 			<div class="plate-footer__buttons">
-				<a href="#" class="button button--back">Назад</a>
-				<a href="#" class="button">Далее</a>
+				<a href="#" class="button button--back">Back</a>
+				<a href="#" class="button">Further</a>
 			</div>
 		</div>
 		<!-- // plate-footer -->
@@ -262,19 +262,19 @@
 			<div class="plate-header__icon">
 				<img src="img/icons/list.png" alt="Icon">
 			</div>
-			<div class="plate-header__title">Ваш уровень знания верстки сайтов</div>
+			<div class="plate-header__title">Your level of knowledge of layout sites</div>
 		</div>
 		<!-- // plate-header -->
 
 		<!-- Content ... -->
 		<div class="plate-content">
-			<h2 class="title-main">На HTML можно создавать:</h2>
+			<h2 class="title-main">In HTML you can create:</h2>
 
 			<div class="cards-group">
 				<!-- card-block -->
 				<label class="card-block">
 					<div class="card-block__radio">
-						<input name="image-group" type="radio" class="card-block__radio-real" value="Мобильные приложения">
+						<input name="image-group" type="radio" class="card-block__radio-real" value="Mobile applications">
 						<div class="card-block__radio-fake"></div>
 					</div>
 					<div class="card-block__radio"></div>
@@ -282,28 +282,28 @@
 						<img src="img/pictures/mobile.jpg" alt="Img">
 					</div>
 					<div class="card-block__text">
-						Мобильные приложения
+						Mobile applications
 					</div>
 				</label>
 				<!-- // card-block -->
 				<!-- card-block -->
 				<label class="card-block check radio-block--active">
 					<div class="card-block__radio">
-						<input name="image-group" type="radio" class="card-block__radio-real" value="Сайты для всех браузеров и платформ">
+						<input name="image-group" type="radio" class="card-block__radio-real" value="Sites for all browsers and platforms">
 						<div class="card-block__radio-fake"></div>
 					</div>
 					<div class="card-block__img">
 						<img src="img/pictures/browser.jpg" alt="Img">
 					</div>
 					<div class="card-block__text">
-						Сайты для всех браузеров и платформ
+						Sites for all browsers and platforms
 					</div>
 				</label>
 				<!-- // card-block -->
 				<!-- card-block -->
 				<label class="card-block">
 					<div class="card-block__radio">
-						<input name="image-group" type="radio" class="card-block__radio-real" value="Программы для Windows">
+						<input name="image-group" type="radio" class="card-block__radio-real" value="Windows software">
 						<div class="card-block__radio-fake"></div>
 					</div>
 					<div class="card-block__radio"></div>
@@ -311,14 +311,14 @@
 						<img src="img/pictures/windows.jpg" alt="Img">
 					</div>
 					<div class="card-block__text">
-						Программы для Windows
+						Windows software
 					</div>
 				</label>
 				<!-- // card-block -->
 				<!-- card-block -->
 				<label class="card-block">
 					<div class="card-block__radio">
-						<input name="image-group" type="radio" class="card-block__radio-real" value="Программы для Linux">
+						<input name="image-group" type="radio" class="card-block__radio-real" value="Linux software">
 						<div class="card-block__radio-fake"></div>
 					</div>
 					<div class="card-block__radio"></div>
@@ -326,7 +326,7 @@
 						<img src="img/pictures/linux.jpg" alt="Img">
 					</div>
 					<div class="card-block__text">
-						Программы для Linux
+						Linux software
 					</div>
 				</label>
 				<!-- // card-block -->
@@ -341,7 +341,7 @@
 
 				<div class="progress">
 					<div class="progress__label">
-						Готово: <strong>100%</strong>
+						Done: <strong>100%</strong>
 					</div>
 					<div class="progress__line-wrapper">
 						<div class="progress__line-bar" style="width: 100%;"></div>
@@ -350,8 +350,8 @@
 
 			</div>
 			<div class="plate-footer__buttons">
-				<a href="#" class="button button--back">Назад</a>
-				<a href="#" class="button">Далее</a>
+				<a href="#" class="button button--back">Back</a>
+				<a href="#" class="button">Further</a>
 			</div>
 		</div>
 		<!-- // plate-footer -->
@@ -364,20 +364,20 @@
 		<div class="cover-content-wrapper">
 			<div class="cover-content">
 
-				<img class="title-img" width="70" src="img/icons/clapping.svg" alt="Отлично! Последний шаг!">
-				<div class="title">Отлично! Последний шаг!</div>
+				<img class="title-img" width="70" src="img/icons/clapping.svg" alt="Fine! Last step!">
+				<div class="title">Fine! Last step!</div>
 
 				<div class="form-group">
-					<label class="label" for="email">Введите Email:</label>
-					<input class="input-email" type="email" id="email" placeholder="Ваш Email">
+					<label class="label" for="email">Enter Email:</label>
+					<input class="input-email" type="email" id="email" placeholder="Your Email">
 				</div>
 
-				<input class="button button--huge" id="getResults" type="submit" value="Получить результаты">
+				<input class="button button--huge" id="getResults" type="submit" value="Get Results">
 
 				<label class="checkbox">
 					<input type="checkbox" id="confirmBox" class="checkbox__real">
 					<div class="checkbox__fake"></div>
-					<div class="checkbox__text">С политикой конфеденциальности ознакомлен</div>
+					<div class="checkbox__text">I have read the privacy policy</div>
 				</label>
 
 			</div>
@@ -389,18 +389,18 @@
 		<div class="cover-content-wrapper">
 			<div class="cover-content">
 
-				<img class="title-img" width="70" src="img/icons/clapping.svg" alt="Спасибо!">
-				<div class="title">Спасибо!</div>
-				<p>Результаты вашего теста и методичка, уже отправлены вам на Email.</p>
-				<div class="title-2">Ваши бонусы:</div>
+				<img class="title-img" width="70" src="img/icons/clapping.svg" alt="Thanks!">
+				<div class="title">Thanks!</div>
+				<p>The results of your test and training manual have already been sent to you by Email.</p>
+				<div class="title-2">Your bonuses:</div>
 				<div class="bonus-cards-wrapper">
 					<div class="bonus-card" id="bonus-card1">
 						<img class="bonus-card__img" src="img/icons/leaflet.svg" alt="">
-						<div class="bonus-card__title">Методичка с курса по верстке</div>
+						<div class="bonus-card__title">Manual from the course on Front-end developer</div>
 					</div>
 					<div class="bonus-card" id="bonus-card2">
 						<img class="bonus-card__img" src="img/icons/video-tutorial.png" alt="">
-						<div class="bonus-card__title">Видео урок с курса по верстке</div>
+						<div class="bonus-card__title">Video lesson from the Front-end developer course</div>
 					</div>
 				</div>
 
